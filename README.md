@@ -1,1 +1,4 @@
-# Google-Reverse-Search-by-Image-Telegram-Bot-master
+# Google Reverse Search by Image Telegram Bot
+#### Telegram bot that can do reverse search by image.
+#### Uses BeautifulSoup library to parse results directly from Google result page.
+[@google_search_image_bot](https://t.me/google_search_image_bot)
